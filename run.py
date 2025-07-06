@@ -20,7 +20,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 # path_dataset = ('/home/maxiaoming/project/FedPerGNN-main/mgcnn-master/Data/douban/training_test_dataset.mat')
 # path_dataset = ('/home/maxiaoming/project/FedPerGNN-main/mgcnn-master/Data/flixster/training_test_dataset_10_NNs.mat')
 #path_dataset = ('/home/maxiaoming/project/FedPerGNN-main/mgcnn-master/Data/movielens/split_1.mat')
-path_dataset = ('./datasets/archive/dataset//')
+path_dataset = ('./mgcnn-master/Data/synthetic_netflix/synthetic_netflix.mat')
 # path_dataset = ('/home/maxiaoming/project/FedPerGNN-main/mgcnn-master/Data/yahoo_music/training_test_dataset_10_NNs.mat')
 
 # In[ ]:
