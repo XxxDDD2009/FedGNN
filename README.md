@@ -5,7 +5,7 @@ FedGNN是一个基于联邦学习的图神经网络(Graph Neural Network)推荐�
 # 1. 快速开始
 1. Environment Requirements
 * Ubuntu 16.04
-* Anaconda with Python 3.6.9
+* Anaconda with Python 3.6.9 // Python 3.10.19 
 * CUDA 10.0
 
 Note: The specific python package list of our environment is included in the requirements.txt. The tensorflow version can be 1.12~1.15.
